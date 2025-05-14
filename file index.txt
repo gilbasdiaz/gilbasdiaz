@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Koperasi Desa Merah Putih Kertajaya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Koperasi Desa Merah Putih Kertajaya</h1>
+        <nav>
+            <ul>
+                <li><a href="#beranda">Beranda</a></li>
+                <li><a href="#tentang">Tentang Kami</a></li>
+                <li><a href="#layanan">Layanan</a></li>
+                <li><a href="#berita">Berita</a></li>
+                <li><a href="#kontak">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="beranda">
+        <h2>Selamat Datang</h2>
+        <p>Website resmi Koperasi Desa Merah Putih Kertajaya.</p>
+    </section>
+
+    <section id="tentang">
+        <h2>Tentang Kami</h2>
+        <p>Koperasi ini didirikan oleh masyarakat Desa Kertajaya untuk meningkatkan kesejahteraan ekonomi warga melalui sistem simpan pinjam dan pemberdayaan UMKM.</p>
+    </section>
+
+    <section id="layanan">
+        <h2>Layanan Koperasi</h2>
+        <ul>
+            <li>Simpan Pinjam</li>
+            <li>Penyediaan Kebutuhan Pokok</li>
+            <li>Dukungan Produk UMKM</li>
+        </ul>
+    </section>
+
+    <section id="berita">
+        <h2>Berita & Pengumuman</h2>
+        <p>Informasi kegiatan dan pengumuman akan ditampilkan di sini.</p>
+    </section>
+
+    <section id="kontak">
+        <h2>Kontak Kami</h2>
+        <p>Alamat: Jl. Raya Kertajaya No.1, Kecamatan Kertajaya</p>
+        <p>Telepon: 0812-3456-7890</p>
+        <p>Email: koperasi@kertajaya.id</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Koperasi Desa Merah Putih Kertajaya</p>
+    </footer>
+</body>
+</html>
